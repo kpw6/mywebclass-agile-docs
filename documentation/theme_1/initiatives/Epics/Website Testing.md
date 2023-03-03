@@ -11,11 +11,8 @@ Goals:
 
 User Stories:
 
-    As a tester, I want to perform functional testing to ensure that all features and functions of the website are working correctly.
-    As a usability tester, I want to test the website's usability and user experience, so that we can identify and address any issues before the launch.
-    As a performance tester, I want to test the website's performance and load time, so that we can ensure it can handle high traffic without slowing down.
-    As a security tester, I want to test the website's security and vulnerability to attacks, so that we can ensure the website can protect user data.
-    As a developer, I want to receive feedback from testers and address any issues or bugs that are identified, so that we can ensure the website functions properly and meets the user's needs.
+* [Developer](Stories/Developer.md)
+* [Tester](Stories/Tester.md)
 
 Dependencies:
 

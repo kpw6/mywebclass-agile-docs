@@ -9,13 +9,10 @@ Goals:
     Create visually appealing design assets that enhance the content and reinforce the brand's message
     Develop a content strategy that supports the business's goals and drives traffic to the website
 
-User Stories:
+## User Stories:
 
-    As a content strategist, I want to conduct research on the target audience and competitor content, so that we can create content that resonates with the audience and differentiates the brand.
-    As a writer, I want to create compelling and informative content that aligns with the brand's message and engages the audience, so that we can build brand awareness and increase traffic.
-    As a designer, I want to create visually appealing graphics and images that enhance the content and reinforce the brand's message, so that the content is more engaging and memorable.
-    As a stakeholder, I want to review and approve the content and design assets, so that we can ensure they align with the business's goals and brand identity.
-    As a marketer, I want to develop a content strategy that aligns with the business's goals and drives traffic to the website, so that we can increase brand awareness and generate leads.
+* [Writer](Stories/Writer.md)
+* [Designer](Stories/Designer.md)
 
 Dependencies:
 

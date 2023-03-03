@@ -12,10 +12,9 @@ Goals:
 
 User Stories:
 
-    As a developer, I want to configure the continuous integration system to automatically build and test the website code, so that we can catch errors and bugs early in the development process.
-    As a developer, I want to automate the deployment process, so that we can easily deploy new features and updates to the website.
-    As a quality assurance expert, I want to run automated tests to ensure that the website meets the functional and non-functional requirements and is free of errors and bugs.
-
+* [Developer](Stories/Developer.md)
+* [Quality Assurance Expert](Stories/QAE.md)
+    
 Dependencies:
 
     Integration with version control system, such as Git

@@ -12,12 +12,9 @@ Goals:
 
 User Stories:
 
-    As a project manager, I want to conduct user research to understand the target audience's needs and preferences, so that we can design a website that meets their needs.
-    As a designer, I want to create a sitemap and define the website's structure to ensure an intuitive and user-friendly experience, so that users can easily navigate the site.
-    As a developer, I want to create wireframes and prototypes to test the website's functionality and identify any potential issues, so that we can address any issues before development.
-    As a designer, I want to create a visually appealing design that reflects the brand's identity and creates a memorable user experience, so that users have a positive impression of the brand.
-    As a stakeholder, I want to review and approve the final design to ensure that it meets the business's requirements, so that we can launch a website that aligns with our goals.
-
+* [Designer](Stories/Designer.md)
+* [Developer](Stories/Developer.md)
+ 
 Dependencies:
 
     Availability of user research data
@@ -44,5 +41,3 @@ The Website Planning and Design epic is crucial for creating a website that meet
 
 Priority:
 The priority of this epic should be high, as it is a foundational step in creating a successful website. It should be completed early in the project timeline to ensure that the design aligns with the user's needs and the business's goals. The user stories can be prioritized based on their impact on the website's user experience and the business's goals.
-
-Stories:

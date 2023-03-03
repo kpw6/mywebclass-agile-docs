@@ -11,10 +11,8 @@ Goals:
 
 User Stories:
 
-    As a security expert, I want to perform a security audit to identify vulnerabilities and potential risks, so that we can take appropriate measures to mitigate them.
-    As a compliance officer, I want to ensure that the website complies with relevant regulations and standards, such as GDPR or PCI-DSS.
-    As a developer, I want to implement appropriate security measures, such as encryption and access control, to protect user data and prevent unauthorized access.
-    As a user, I want to be informed about the website's privacy policy and how my data is being collected, used, and protected.
+* [Developer](Stories/Developer.md)
+* [Security Expert](Stories/SecurityExpert.md)
 
 Dependencies:
 
