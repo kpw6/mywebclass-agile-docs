@@ -14,4 +14,4 @@ Acceptance Criteria:
 
 ## Tasks
 
-* [Create Test Plan for Homepage](Task/CTSPH.md)
+* [Create Test Plan for Homepage](Tasks/CTSPH.md)

@@ -1,4 +1,4 @@
-Title of the Initiative: Automated Infrastructure Provisioning
+## Automated Infrastructure Provisioning
 
 Description: This initiative aims to automate the infrastructure provisioning process to increase efficiency, reduce errors, and enable the DevOps team to respond more quickly to changing business requirements.
 

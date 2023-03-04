@@ -1,4 +1,4 @@
-Title of the Initiative: Basic Website Deployment
+## Basic Website Deployment
 
 Description: This initiative aims to deploy a basic website to provide information to users about our products and services. The website will be designed to be responsive and accessible across different devices and platforms.
 

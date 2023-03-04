@@ -14,4 +14,4 @@ Acceptance Criteria:
 
 ## Tasks
 
-* [Test Checkout Process](Task/Test%20Checkout%20Process.md)
+* [Test Checkout Process](Tasks/Test%20Checkout%20Process.md)
