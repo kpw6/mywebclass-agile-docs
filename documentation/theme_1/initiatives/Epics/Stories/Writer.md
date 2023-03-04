@@ -16,4 +16,4 @@ Note: The acceptance criteria can be adjusted based on the specific needs and re
 
 ## Tasks
 
-* [Update Product Descriptions](Task/UPD.md)
+* [Update Product Descriptions](Tasks/UPD.md)

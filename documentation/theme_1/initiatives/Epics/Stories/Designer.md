@@ -14,4 +14,4 @@ Acceptance Criteria:
 
 ## Tasks
 
-* [Redesign Landing Page](Task/RDLP.md)
+* [Redesign Landing Page](Tasks/RDLP.md)

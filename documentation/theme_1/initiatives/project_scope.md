@@ -1,4 +1,4 @@
-Title of the Initiative: Teaching Website Development
+## Teaching Website Development
 
 Description: This initiative aims to develop a teaching website that provides educational content to users. The website will include a variety of learning materials, such as videos, articles, quizzes, and interactive exercises. The website will be designed to be user-friendly, intuitive, and accessible to a wide range of users.
 

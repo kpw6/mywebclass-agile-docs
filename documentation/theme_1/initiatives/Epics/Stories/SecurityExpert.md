@@ -13,4 +13,4 @@ Acceptance Criteria:
 
 ## Tasks
 
-* [Perform Security Assessment on User Registration Functionality](Task/SecurityAssesement)
+* [Perform Security Assessment on User Registration Functionality](Tasks/SecurityAssesement)
