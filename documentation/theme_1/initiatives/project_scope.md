@@ -73,8 +73,8 @@ Team:
 
 ## Epics:
 
-* [Website Planning and Design](Epics/Websites and Design)
-* [Content Creation and Integration](Epics/Content Creation.md)
-* [Website Testing and Validation](Epics/Website Testing.md)
+* [Website Planning and Design](Epics/Websites%20and%20Design.md)
+* [Content Creation and Integration](Epics/Content%20Creation.md)
+* [Website Testing and Validation](Epics/Website%20Testing.md)
 
 

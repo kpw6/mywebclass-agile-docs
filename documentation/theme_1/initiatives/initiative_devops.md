@@ -72,5 +72,5 @@ Team:
 
 ## Epics:
 
-* [Security and Compliance](Epics/Secuity and Compliance.md)
+* [Security and Compliance](Epics/Secuity%20and%20Compliance.md)
 * [Continuous Integration and Deployment](Epics/Continuous%20Integration.md)

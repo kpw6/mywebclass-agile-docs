@@ -71,5 +71,5 @@ Team:
 
 Epics:
 
-* [Website Planning and Design](Epics/Websites and Design)
-* [Website Testing and Validation](Epics/Website Testing.md)
+* [Website Planning and Design](Epics/Websites%20and%20Design.md)
+* [Website Testing and Validation](Epics/Website%20Testing.md)
